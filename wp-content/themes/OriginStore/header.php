@@ -639,7 +639,7 @@
           <ul class="menu" id="menu">
             <li><a href="/delivery/">Доставка и оплата</a></li>
             <li><a href="/refund/">Возврат</a></li>
-            <li><a href="/consultation/">Консультация косметолога</a></li>
+            <li><a href="https://t.me">Консультация косметолога</a></li>
             <li><a href="/contacts/">Контакты</a></li>
             <li><a href="#">Мы в соцсетях</a>
               <a class="free-consultation" href="https://t.me/originstoreprice">
